@@ -31,5 +31,5 @@ Este projeto foi desenvolvido usando Python, pandas e seaborn, e os insights pod
 
 ![Top 10 Preço Médio por Bairro](preco_medio.png)
 ![Top 10 Número de Listagens](listagens.png)
-![Preço x Avaliações](preco_vs_reviews.png)
+![Preço x Avaliações](preco_vs_review.png)
 ![Top 10 Disponibilidade Média](disponibilidade.png)
